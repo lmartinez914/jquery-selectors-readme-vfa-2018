@@ -1,4 +1,4 @@
 // declare your functions here...
-function huh() {
+function what() {
   console.log("What am I supposed to do?")
 }
